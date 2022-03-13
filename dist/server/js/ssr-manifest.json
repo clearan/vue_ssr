@@ -1,0 +1,4 @@
+{
+  "server.js": "server.bundle.js",
+  "src_components_user_vue.bundle.js": "src_components_user_vue.bundle.js"
+}
